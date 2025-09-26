@@ -1,0 +1,54 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "Build ImGui Project",
+            "command": "C:\\mingw64\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "-std=c++20",
+
+                // Твой main.cpp
+                "${workspaceFolder}\\main.cpp",
+
+                "${workspaceFolder}\\task_manager.cpp",
+
+                "${workspaceFolder}\\task.cpp",
+
+                // Файлы ImGui
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\imgui.cpp",
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\imgui_draw.cpp",
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\imgui_tables.cpp",
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\imgui_widgets.cpp",
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\backends\\imgui_impl_glfw.cpp",
+                "${workspaceFolder}\\external\\imgui-1.92.2b\\backends\\imgui_impl_opengl3.cpp",
+
+                // Пути к include
+                "-I${workspaceFolder}\\external\\imgui-1.92.2b",
+                "-I${workspaceFolder}\\external\\imgui-1.92.2b\\backends",
+                "-I${workspaceFolder}\\external\\glfw-3.4.bin.WIN64\\include",
+
+                // Линковка GLFW + OpenGL
+                "-L${workspaceFolder}\\external\\glfw-3.4.bin.WIN64\\lib-mingw-w64",
+                "-lglfw3",
+                "-lopengl32",
+                "-lgdi32",
+                "-lole32",
+
+                // Выходной exe
+                "-o",
+                "${workspaceFolder}\\rooster.exe"
+            ],
+            "options": {
+                "cwd": "${fileDirname}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": "build",
+            "detail": "compiler: C:\\mingw64\\bin\\g++.exe"
+        }
+    ]
+}
+
