@@ -63,7 +63,7 @@ cmake ..
 cmake --build . --config Release
 
 # Run the application
-./rooster.exe
+./todolist.exe
 ```
 
 #### Method 2: Manual Visual Studio Setup

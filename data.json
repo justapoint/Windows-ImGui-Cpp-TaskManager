@@ -1,0 +1,354 @@
+{
+    "1C4D793E-6F0A-4C13-8B25-9A47B5F8D2E7": {
+        "done": true,
+        "title": "Write short story"
+    },
+    "1D3C0F4A-7E5B-4B57-9A23-8C319D2E4F6E": {
+        "done": true,
+        "title": "Learn to play chess"
+    },
+    "1D3C0F4A-7E5B-4B57-9A23-8C319D2E4F71": {
+        "done": true,
+        "title": "Study artificial intelligence basics"
+    },
+    "1D7F4A9C-3B82-4E65-9D28-6A5B0C2E4F71": {
+        "done": true,
+        "title": "Learn new programming language basics"
+    },
+    "2B4E6F8A-0C57-4C19-9A63-A3B7D5F1E942": {
+        "done": false,
+        "title": "Schedule doctor checkup"
+    },
+    "2B4E6F8A-0C57-4C19-9A63-A3B7D5F1E944": {
+        "done": false,
+        "title": "Call old friend"
+    },
+    "2B4E6F8A-0C57-4C19-9A63-A3B7D5F1E946": {
+        "done": false,
+        "title": "Pay mortgage"
+    },
+    "2C8A6E0F-2D94-4B17-9A58-7C4E1B3D5F24": {
+        "done": false,
+        "title": "Check car maintenance schedule"
+    },
+    "2D948E3A-6C0F-4B17-9A58-7C4E1B3D5F2A": {
+        "done": false,
+        "title": "Respond to important emails"
+    },
+    "2D948E3A-6C0F-4B17-9A58-7C4E1B3D5F2D": {
+        "done": false,
+        "title": "Check tire pressure"
+    },
+    "2D948E3A-6C0F-4B17-9A58-7C4E1B3D5F30": {
+        "done": false,
+        "title": "Clean oven"
+    },
+    "2E4F6A9D-3C0F-4B57-9A23-7E518C316A2D": {
+        "done": true,
+        "title": "Create investment portfolio"
+    },
+    "2F6D8A4C-9B37-4E15-8A29-3C5F0B1D4E79": {
+        "done": true,
+        "title": "Plan weekend trip"
+    },
+    "3C0F4A7E-5B1D-4B57-9A23-8C319D2E4F6D": {
+        "done": false,
+        "title": "Backup phone contacts"
+    },
+    "3C0F4A7E-5B1D-4B57-9A23-8C319D2E4F70": {
+        "done": false,
+        "title": "Schedule car maintenance"
+    },
+    "3D5F297C-4E1B-4B17-9A58-2D948E3A6C0E": {
+        "done": true,
+        "title": "Design new website layout"
+    },
+    "3E6F0A1C-4D79-4C13-8B25-9A47B5F8D2E8": {
+        "done": true,
+        "title": "Develop mobile app prototype"
+    },
+    "3E6F0A1C-4D79-4C13-8B25-9A47B5F8D2E9": {
+        "done": true,
+        "title": "Plan family reunion"
+    },
+    "3E6F0A1C-4D79-4C13-8B25-9A47B5F8D2EA": {
+        "done": true,
+        "title": "Learn graphic design principles"
+    },
+    "3E8A6C0F-2D94-4B17-9A58-7C4E1B3D5F26": {
+        "done": false,
+        "title": "Update resume"
+    },
+    "3F7D1F9A-3E82-4C65-9D24-8A5B2E6F0D37": {
+        "done": true,
+        "title": "Plan birthday party"
+    },
+    "4A7D1F9A-3E82-4C65-9D24-8A5B2E6F0D36": {
+        "done": false,
+        "title": "Morning meditation"
+    },
+    "4B17D948-E3A6-4C0F-9A58-7C4E1B3D5F2B": {
+        "done": false,
+        "title": "Organize bookshelf"
+    },
+    "4B17D948-E3A6-4C0F-9A58-7C4E1B3D5F2E": {
+        "done": false,
+        "title": "Review client feedback"
+    },
+    "4B17D948-E3A6-4C0F-9A58-7C4E1B3D5F31": {
+        "done": false,
+        "title": "Backup important documents"
+    },
+    "4B7D1F9A-3E82-4C65-9D24-8A5B2E6F0D33": {
+        "done": false,
+        "title": "Clean kitchen"
+    },
+    "4C7A1D9F-3E82-4B65-9C24-8A5B2E6F0D31": {
+        "done": false,
+        "title": "Buy groceries for the week"
+    },
+    "4F6A9D2E-3C0F-4B57-9A23-7E518C316A2E": {
+        "done": true,
+        "title": "Develop content strategy"
+    },
+    "4F6A9D2E-3C0F-4B57-9A23-7E518C316A2F": {
+        "done": true,
+        "title": "Develop marketing campaign"
+    },
+    "5B1D3C0F-4A7E-4B57-9A23-8C319D2E4F6C": {
+        "done": true,
+        "title": "Practice mindfulness exercises"
+    },
+    "5B1D3C0F-4A7E-4B57-9A23-8C319D2E4F6F": {
+        "done": true,
+        "title": "Learn video editing"
+    },
+    "5B1D3C0F-4A7E-4B57-9A23-8C319D2E4F72": {
+        "done": true,
+        "title": "Learn to solve Rubik's cube"
+    },
+    "5C7D1F9A-3E82-4C65-9D24-8A5B2E6F0D35": {
+        "done": true,
+        "title": "Organize closet"
+    },
+    "5D3C0F4A-9B57-4E23-7A81-6C2E8F4A9D31": {
+        "done": true,
+        "title": "Learn basic Spanish phrases"
+    },
+    "6A3C8E0F-2D94-4B17-9A58-7C4E1B3D5F27": {
+        "done": false,
+        "title": "Send thank you emails"
+    },
+    "6C2E8F4A-9D31-4B57-8A23-7E5B1D3C0F49": {
+        "done": false,
+        "title": "Call parents"
+    },
+    "6C319D2E-4F6A-4B57-9A23-7E5B1D3C0F4F": {
+        "done": true,
+        "title": "Create business plan"
+    },
+    "6C319D2E-4F6A-4B57-9A23-7E5B1D3C0F51": {
+        "done": true,
+        "title": "Create retirement budget"
+    },
+    "6F0D318A-5B2E-4C24-9A47-3E824B7D1F9A": {
+        "done": true,
+        "title": "Practice public speaking"
+    },
+    "7C4E1B3D-5F29-4B17-9A58-2D948E3A6C0A": {
+        "done": false,
+        "title": "Organize tool shed"
+    },
+    "7C4E1B3D-5F29-4B17-9A58-2D948E3A6C0B": {
+        "done": false,
+        "title": "Update social media profiles"
+    },
+    "7C4E1B3D-5F29-4B17-9A58-2D948E3A6C0C": {
+        "done": false,
+        "title": "Water garden plants"
+    },
+    "7C4E1B3D-5F29-4B17-9A58-2D948E3A6C0D": {
+        "done": false,
+        "title": "Clean car interior"
+    },
+    "7D4A1C9F-3E82-4B65-9C24-8A5B2E6F0D34": {
+        "done": false,
+        "title": "Backup computer files"
+    },
+    "7E4A1C9F-3D82-4B65-9C24-8A5B2E6F0D32": {
+        "done": false,
+        "title": "Water house plants"
+    },
+    "7E5B1D3C-0F4A-4B57-9A23-8C319D2E4F6A": {
+        "done": true,
+        "title": "Research vacation destinations"
+    },
+    "8A0C572B-4E6F-4C19-9A63-A3B7D5F1E943": {
+        "done": false,
+        "title": "Organize garage"
+    },
+    "8A0C572B-4E6F-4C19-9A63-A3B7D5F1E945": {
+        "done": false,
+        "title": "Organize digital files"
+    },
+    "8A5B2E6F-0D31-4C24-9A47-3E824B7D1F9B": {
+        "done": false,
+        "title": "Take vitamins"
+    },
+    "8B25E6F0-3A1C-4D79-4C13-9A47B5F8D2E6": {
+        "done": false,
+        "title": "Clean refrigerator"
+    },
+    "8B3A6E0F-2D94-4B17-9A58-7C4E1B3D5F25": {
+        "done": false,
+        "title": "Walk the dog"
+    },
+    "8C319D2E-4F6A-4B57-9A23-7E5B1D3C0F4E": {
+        "done": true,
+        "title": "Study market trends"
+    },
+    "8C319D2E-4F6A-4B57-9A23-7E5B1D3C0F50": {
+        "done": true,
+        "title": "Research home improvement ideas"
+    },
+    "8C319D2E-4F6A-4B57-9A23-7E5B1D3C0F52": {
+        "done": true,
+        "title": "Develop product roadmap"
+    },
+    "8C3A6E0F-2D94-4B17-9A58-7C4E1B3D5F28": {
+        "done": true,
+        "title": "Write blog post about productivity"
+    },
+    "8D3A6E0F-2D94-4B17-9A58-7C4E1B3D5F23": {
+        "done": false,
+        "title": "Review project timeline"
+    },
+    "8E3A6C0F-2D94-4B17-9A58-7C4E1B3D5F29": {
+        "done": false,
+        "title": "Read morning news"
+    },
+    "9A47B5F8-D2E6-4C13-8B25-3E6F0A1C4D81": {
+        "done": true,
+        "title": "Learn yoga basics"
+    },
+    "9A47B5F8-D2E6-4C13-8B25-3E6F0A1C4D84": {
+        "done": true,
+        "title": "Set up automated bill payments"
+    },
+    "9A47B5F8-D2E6-4C13-8B25-3E6F0A1C4D87": {
+        "done": true,
+        "title": "Create will and testament"
+    },
+    "9A587C4E-1B3D-5F29-4B17-2D948E3A6C0F": {
+        "done": false,
+        "title": "Schedule team meeting"
+    },
+    "9A63A3B7-D5F1-4C19-8A42-2B4E6F8A0C58": {
+        "done": false,
+        "title": "Clean windows"
+    },
+    "9A63A3B7-D5F1-4C19-8A42-2B4E6F8A0C60": {
+        "done": false,
+        "title": "Clean bathroom"
+    },
+    "9D2E4F6A-8C31-4B57-9A23-7E5B1D3C0F4A": {
+        "done": true,
+        "title": "Prepare presentation for meeting"
+    },
+    "9E2F4D6A-8C31-4B57-9A23-7E5B1D3C0F4B": {
+        "done": true,
+        "title": "Research investment options"
+    },
+    "9F2E4D6A-8C31-4B57-9A23-7E5B1D3C0F4D": {
+        "done": true,
+        "title": "Learn to cook new recipe"
+    },
+    "A2F4D6A8-9C31-4B57-8A23-7E5B1D3C0F4C": {
+        "done": true,
+        "title": "Study for certification exam"
+    },
+    "A3B7D5F1-8E42-4C19-9A63-2B4E6F8A0C57": {
+        "done": true,
+        "title": "Organize digital photos"
+    },
+    "A3B7D5F1-E942-4C19-9A63-2B4E6F8A0C59": {
+        "done": true,
+        "title": "Learn photography techniques"
+    },
+    "A3B7D5F1-E942-4C19-9A63-2B4E6F8A0C61": {
+        "done": true,
+        "title": "Practice meditation techniques"
+    },
+    "A4B2E6F0-D319-4C24-8A5B-3E827C4A1D9F": {
+        "done": false,
+        "title": "Donate old clothes"
+    },
+    "B5F8D2E6-9A47-4C13-8B25-3E6F0A1C4D79": {
+        "done": true,
+        "title": "Schedule dentist appointment"
+    },
+    "B5F8D2E6-9A47-4C13-8B25-3E6F0A1C4D80": {
+        "done": true,
+        "title": "Plan retirement savings strategy"
+    },
+    "B5F8D2E6-9A47-4C13-8B25-3E6F0A1C4D83": {
+        "done": true,
+        "title": "Write poetry"
+    },
+    "B5F8D2E6-9A47-4C13-8B25-3E6F0A1C4D86": {
+        "done": true,
+        "title": "Learn calligraphy"
+    },
+    "B6F2E8B6-9A47-4C13-8B25-3E6F0A1C4D75": {
+        "done": true,
+        "title": "Set up home office"
+    },
+    "B7D5F1E9-8A42-4C19-9A63-2B4E6F8A0C56": {
+        "done": true,
+        "title": "Practice guitar for 30 minutes"
+    },
+    "C0F4A7E5-1D3C-4B57-9A23-8C319D2E4F6B": {
+        "done": false,
+        "title": "Renew library books"
+    },
+    "C5F2E8B6-9A47-4C13-8B25-3E6F0A1C4D77": {
+        "done": true,
+        "title": "Create meal plan for next week"
+    },
+    "C8A6E0F2-2D94-4B17-9A58-7C4E1B3D5F22": {
+        "done": false,
+        "title": "Update software on laptop"
+    },
+    "D2E6B5F8-9A47-4C13-8B25-3E6F0A1C4D82": {
+        "done": false,
+        "title": "Pay credit card bill"
+    },
+    "D2E6B5F8-9A47-4C13-8B25-3E6F0A1C4D85": {
+        "done": false,
+        "title": "Water lawn"
+    },
+    "D5F2E8B6-9A47-4C13-8B25-3E6F0A1C4D78": {
+        "done": false,
+        "title": "Review monthly budget"
+    },
+    "D6F2E8B6-9A47-4C13-8B25-3E6F0A1C4D76": {
+        "done": false,
+        "title": "Pay utility bills"
+    },
+    "E3A6C0F2-D948-4B17-9A58-7C4E1B3D5F2C": {
+        "done": false,
+        "title": "Morning stretching routine"
+    },
+    "E3A6C0F2-D948-4B17-9A58-7C4E1B3D5F2F": {
+        "done": false,
+        "title": "Schedule vision exam"
+    },
+    "E3A8B9C1-7F42-4A15-9D83-1B4C6F8A2E5D": {
+        "done": false,
+        "title": "Complete morning workout routine"
+    },
+    "E7D5F1E9-8A42-4C19-9A63-2B4E6F8A0C55": {
+        "done": true,
+        "title": "Write in journal"
+    }
+}

@@ -217,6 +217,8 @@ int main() {
     IMGUI_CHECKVERSION();
     ImGui::CreateContext();
     ImGuiIO& io = ImGui::GetIO(); (void)io;
+
+    io.IniFilename = NULL;  // No imgui.ini file
     
     ImGui::StyleColorsDark();  // Set dark theme
 
