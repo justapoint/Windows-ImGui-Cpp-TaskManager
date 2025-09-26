@@ -126,8 +126,17 @@ AppState            // UI modal management
 
 ## 🛠️ Development
 
-### Building from Source
-See [BUILDING.md](BUILDING.md) for detailed compilation instructions for various setups.
+## 🛠️ Building from Source
+
+### Prerequisites
+- Windows 10/11
+- Visual Studio 2019+ or MinGW-w64
+- GLFW 3.3+
+- Dear ImGui 1.89+
+
+### Compilation
+```bash
+g++ -o todo_manager.exe main.cpp task_manager.cpp task.cpp -lglfw3 -lopengl32 -lgdi32
 
 ### Code Style
 - **C++17** standards compliance
