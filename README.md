@@ -8,7 +8,7 @@
 
 A modern, feature-rich todo list application built with C++ and Dear ImGui, featuring a polished graphical interface and persistent data storage. This project demonstrates professional C++ development practices with Windows API integration.
 
-![Task Manager Screenshot](https://via.placeholder.com/800x400/2d2d2d/ffffff?text=Windows+ImGui+Task+Manager)
+![Task Manager Screenshot](images/screenshot.png)
 
 ## ✨ Features
 
@@ -171,10 +171,7 @@ Zero memory leaks guaranteed through:
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see:
-- [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines
-- [ISSUE_TEMPLATE.md](ISSUE_TEMPLATE.md) for bug reports
-- [ROADMAP.md](ROADMAP.md) for development plans
+We welcome suggestions and feedback! Feel free to open an issue if you find any bugs.
 
 ### Areas for Improvement
 - Linux/macOS port (alternative UUID generation)
@@ -206,7 +203,7 @@ We welcome contributions! Please see:
 
 ## 📜 License
 
-MIT License - see [LICENSE](LICENSE) file for details. Free for personal and commercial use.
+This project is open source. Feel free to use it for personal and educational purposes.
 
 ## 🙏 Acknowledgments
 
@@ -221,7 +218,7 @@ MIT License - see [LICENSE](LICENSE) file for details. Free for personal and com
 
 **🐛 Found a bug?** Open an issue on GitHub!
 
-**💡 Have an idea?** We'd love to hear your suggestions!
+**💡 Have an idea?** I'd love to hear your suggestions!
 
 ---
 
